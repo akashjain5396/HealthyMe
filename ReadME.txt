@@ -1,0 +1,1 @@
+Note-The database used in the app is created on local Apache server.
